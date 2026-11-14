@@ -1,0 +1,42 @@
+{
+  "desktop-1280": {
+    "viewport": "1280x900",
+    "document_y_ranges_px": {
+      "pins": [
+        582,
+        1660
+      ],
+      "say": [
+        1686,
+        1934
+      ],
+      "live": [
+        1967,
+        2525
+      ],
+      "docHeight": 2966
+    },
+    "say_calls": 0,
+    "picture_height_px": 2400
+  },
+  "phone-390": {
+    "viewport": "390x844",
+    "document_y_ranges_px": {
+      "pins": [
+        896,
+        2976
+      ],
+      "say": [
+        3002,
+        3335
+      ],
+      "live": [
+        3368,
+        4452
+      ],
+      "docHeight": 5179
+    },
+    "say_calls": 0,
+    "picture_height_px": 3600
+  }
+}
