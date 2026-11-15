@@ -1,0 +1,5 @@
+# POS-1054: the live Ballot Box (/votes/), before and after, on one INVENTED office answer
+
+Before = a build of site `main` @ a314df5b3. After = PR #432's head (b571ab5d6 page; later commits add the deck/flag and tests).
+Input: an invented GET /api/votes answer given through CDP Fetch (a Hearth-shaped open ballot with four designs, one at zero; a submissions ballot; a closed ballot; invented names and counts). NOT the real Hearth ballot, which Rei has not opened yet. No live office, proxy, key, sign-in or stake.
+Headless Chrome 1x, device emulation (not a physical phone). *-states.json carry the text each page drew.
