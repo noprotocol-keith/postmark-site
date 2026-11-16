@@ -1,0 +1,134 @@
+{
+  "default-desktop-1280": {
+    "entry": "default",
+    "slot": false,
+    "hidden": null,
+    "rows": [],
+    "slotCount": 0,
+    "top": 698,
+    "height": 619,
+    "clipped": null,
+    "docWidth": 1280
+  },
+  "default-phone-390": {
+    "entry": "default",
+    "slot": false,
+    "hidden": null,
+    "rows": [],
+    "slotCount": 0,
+    "top": 1180,
+    "height": 1622,
+    "clipped": null,
+    "docWidth": 390
+  },
+  "ledger-desktop-1280": {
+    "entry": "ledger",
+    "slot": false,
+    "hidden": null,
+    "rows": [],
+    "slotCount": 0,
+    "top": 576,
+    "height": 622,
+    "clipped": null,
+    "docWidth": 1280
+  },
+  "ledger-phone-390": {
+    "entry": "ledger",
+    "slot": false,
+    "hidden": null,
+    "rows": [],
+    "slotCount": 0,
+    "top": 1024,
+    "height": 1622,
+    "clipped": null,
+    "docWidth": 390
+  },
+  "desk-desktop-1280": {
+    "entry": "default",
+    "slot": false,
+    "hidden": null,
+    "rows": [],
+    "slotCount": 0,
+    "top": 698,
+    "height": 619,
+    "clipped": null,
+    "docWidth": 1280
+  },
+  "desk-phone-390": {
+    "entry": "default",
+    "slot": false,
+    "hidden": null,
+    "rows": [],
+    "slotCount": 0,
+    "top": 1180,
+    "height": 1622,
+    "clipped": null,
+    "docWidth": 390
+  },
+  "gazette-desktop-1280": {
+    "entry": "default",
+    "slot": false,
+    "hidden": null,
+    "rows": [],
+    "slotCount": 0,
+    "top": 698,
+    "height": 619,
+    "clipped": null,
+    "docWidth": 1280
+  },
+  "gazette-phone-390": {
+    "entry": "default",
+    "slot": false,
+    "hidden": null,
+    "rows": [],
+    "slotCount": 0,
+    "top": 1180,
+    "height": 1622,
+    "clipped": null,
+    "docWidth": 390
+  },
+  "constellation-desktop-1280": {
+    "entry": "default",
+    "slot": false,
+    "hidden": null,
+    "rows": [],
+    "slotCount": 0,
+    "top": 698,
+    "height": 619,
+    "clipped": null,
+    "docWidth": 1280
+  },
+  "constellation-phone-390": {
+    "entry": "default",
+    "slot": false,
+    "hidden": null,
+    "rows": [],
+    "slotCount": 0,
+    "top": 1180,
+    "height": 1622,
+    "clipped": null,
+    "docWidth": 390
+  },
+  "hand-desktop-1280": {
+    "entry": "default",
+    "slot": false,
+    "hidden": null,
+    "rows": [],
+    "slotCount": 0,
+    "top": 698,
+    "height": 619,
+    "clipped": null,
+    "docWidth": 1280
+  },
+  "hand-phone-390": {
+    "entry": "default",
+    "slot": false,
+    "hidden": null,
+    "rows": [],
+    "slotCount": 0,
+    "top": 1180,
+    "height": 1622,
+    "clipped": null,
+    "docWidth": 390
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "default-desktop-1280": {
+    "entry": "default",
+    "slot": true,
+    "hidden": false,
+    "rows": [
+      "FRI 2 Tea at the quay 11:00 AM · the quay · hosted by other-house Rei",
+      "SAT 3 The lantern walk to the old well doors at 2:00 PM · the old well · hosted by Wright Rei JJetto"
+    ],
+    "slotCount": 1,
+    "top": 1346,
+    "height": 275,
+    "clipped": false,
+    "docWidth": 1280
+  },
+  "default-phone-390": {
+    "entry": "default",
+    "slot": true,
+    "hidden": false,
+    "rows": [
+      "FRI 2 Tea at the quay 11:00 AM · the quay · hosted by other-house Rei",
+      "SAT 3 The lantern walk to the old well doors at 2:00 PM · the old well · hosted by Wright Rei JJetto"
+    ],
+    "slotCount": 1,
+    "top": 2831,
+    "height": 433,
+    "clipped": false,
+    "docWidth": 390
+  },
+  "ledger-desktop-1280": {
+    "entry": "ledger",
+    "slot": true,
+    "hidden": false,
+    "rows": [
+      "FRI 2 Tea at the quay 11:00 AM · the quay · hosted by other-house Rei",
+      "SAT 3 The lantern walk to the old well doors at 2:00 PM · the old well · hosted by Wright Rei JJetto"
+    ],
+    "slotCount": 1,
+    "top": 1223,
+    "height": 275,
+    "clipped": false,
+    "docWidth": 1280
+  },
+  "ledger-phone-390": {
+    "entry": "ledger",
+    "slot": true,
+    "hidden": false,
+    "rows": [
+      "FRI 2 Tea at the quay 11:00 AM · the quay · hosted by other-house Rei",
+      "SAT 3 The lantern walk to the old well doors at 2:00 PM · the old well · hosted by Wright Rei JJetto"
+    ],
+    "slotCount": 1,
+    "top": 2671,
+    "height": 433,
+    "clipped": false,
+    "docWidth": 390
+  },
+  "desk-desktop-1280": {
+    "entry": "desk",
+    "slot": true,
+    "hidden": false,
+    "rows": [
+      "FRI 2 Tea at the quay 11:00 AM · the quay · hosted by other-house Rei",
+      "SAT 3 The lantern walk to the old well doors at 2:00 PM · the old well · hosted by Wright Rei JJetto"
+    ],
+    "slotCount": 1,
+    "top": 1288,
+    "height": 275,
+    "clipped": false,
+    "docWidth": 1280
+  },
+  "desk-phone-390": {
+    "entry": "desk",
+    "slot": true,
+    "hidden": false,
+    "rows": [
+      "FRI 2 Tea at the quay 11:00 AM · the quay · hosted by other-house Rei",
+      "SAT 3 The lantern walk to the old well doors at 2:00 PM · the old well · hosted by Wright Rei JJetto"
+    ],
+    "slotCount": 1,
+    "top": 2782,
+    "height": 433,
+    "clipped": false,
+    "docWidth": 390
+  },
+  "gazette-desktop-1280": {
+    "entry": "gazette",
+    "slot": true,
+    "hidden": false,
+    "rows": [
+      "FRI 2 Tea at the quay 11:00 AM · the quay · hosted by other-house Rei",
+      "SAT 3 The lantern walk to the old well doors at 2:00 PM · the old well · hosted by Wright Rei JJetto"
+    ],
+    "slotCount": 1,
+    "top": 1798,
+    "height": 280,
+    "clipped": false,
+    "docWidth": 1280
+  },
+  "gazette-phone-390": {
+    "entry": "gazette",
+    "slot": true,
+    "hidden": false,
+    "rows": [
+      "FRI 2 Tea at the quay 11:00 AM · the quay · hosted by other-house Rei",
+      "SAT 3 The lantern walk to the old well doors at 2:00 PM · the old well · hosted by Wright Rei JJetto"
+    ],
+    "slotCount": 1,
+    "top": 3480,
+    "height": 527,
+    "clipped": false,
+    "docWidth": 390
+  },
+  "constellation-desktop-1280": {
+    "entry": "constellation",
+    "slot": true,
+    "hidden": false,
+    "rows": [
+      "FRI 2 Tea at the quay 11:00 AM · the quay · hosted by other-house Rei",
+      "SAT 3 The lantern walk to the old well doors at 2:00 PM · the old well · hosted by Wright Rei JJetto"
+    ],
+    "slotCount": 1,
+    "top": 1423,
+    "height": 254,
+    "clipped": false,
+    "docWidth": 1280
+  },
+  "constellation-phone-390": {
+    "entry": "constellation",
+    "slot": true,
+    "hidden": false,
+    "rows": [
+      "FRI 2 Tea at the quay 11:00 AM · the quay · hosted by other-house Rei",
+      "SAT 3 The lantern walk to the old well doors at 2:00 PM · the old well · hosted by Wright Rei JJetto"
+    ],
+    "slotCount": 1,
+    "top": 3047,
+    "height": 436,
+    "clipped": false,
+    "docWidth": 390
+  },
+  "hand-desktop-1280": {
+    "entry": "hand",
+    "slot": true,
+    "hidden": false,
+    "rows": [
+      "FRI 2 Tea at the quay 11:00 AM · the quay · hosted by other-house Rei",
+      "SAT 3 The lantern walk to the old well doors at 2:00 PM · the old well · hosted by Wright Rei JJetto"
+    ],
+    "slotCount": 1,
+    "top": 1386,
+    "height": 254,
+    "clipped": false,
+    "docWidth": 1280
+  },
+  "hand-phone-390": {
+    "entry": "hand",
+    "slot": true,
+    "hidden": false,
+    "rows": [
+      "FRI 2 Tea at the quay 11:00 AM · the quay · hosted by other-house Rei",
+      "SAT 3 The lantern walk to the old well doors at 2:00 PM · the old well · hosted by Wright Rei JJetto"
+    ],
+    "slotCount": 1,
+    "top": 2975,
+    "height": 412,
+    "clipped": false,
+    "docWidth": 390
+  }
+}
