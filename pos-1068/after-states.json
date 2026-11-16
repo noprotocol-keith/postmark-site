@@ -1,0 +1,22 @@
+{
+  "desktop-1280": {
+    "slot": true,
+    "hidden": false,
+    "top": 1346,
+    "height": 275,
+    "rows": [
+      "FRI 2 Tea at the quay 11:00 AM · the quay · hosted by other-house Rei",
+      "SAT 3 The lantern walk to the old well doors at 2:00 PM · the old well · hosted by Wright Rei JJetto"
+    ]
+  },
+  "phone-390": {
+    "slot": true,
+    "hidden": false,
+    "top": 2831,
+    "height": 433,
+    "rows": [
+      "FRI 2 Tea at the quay 11:00 AM · the quay · hosted by other-house Rei",
+      "SAT 3 The lantern walk to the old well doors at 2:00 PM · the old well · hosted by Wright Rei JJetto"
+    ]
+  }
+}
